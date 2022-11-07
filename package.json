@@ -1,6 +1,6 @@
 {
   "name": "lowdb",
-  "version": "2.1.0",
+  "version": "2.0.0",
   "description": "Tiny local JSON database for Node, Electron and the browser",
   "exports": "./lib/index.js",
   "files": [
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/typicode/lowdb.git"
+    "url": "git+https://github.com/nothKy/low-db.git"
   },
   "keywords": [
     "database",
@@ -34,9 +34,9 @@
   "author": "Typicode <typicode@gmail.com>",
   "license": "Parity-7.0.0 AND MIT WITH Patron-1.0.0",
   "bugs": {
-    "url": "https://github.com/typicode/lowdb/issues"
+    "url": "https://github.com/nothKy/low-db/issues"
   },
-  "homepage": "https://github.com/typicode/lowdb#readme",
+  "homepage": "https://github.com/nothKy/low-db#readme",
   "devDependencies": {
     "@commitlint/cli": "^12.0.1",
     "@commitlint/config-conventional": "^12.0.1",
