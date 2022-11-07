@@ -320,3 +320,9 @@ If you plan to scale, it's highly recommended to use databases like PostgreSQL, 
 ## License
 
 [License Zero Parity 7.0.0](https://paritylicense.com/versions/7.0.0.html) and MIT (contributions) with exception [License Zero Patron 1.0.0](https://patronlicense.com/versions/1.0.0).
+
+## Note
+
+* This is just a slight code change
+* Support cjs & esm
+* This is an unofficial module!
