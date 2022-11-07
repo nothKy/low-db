@@ -1,5 +1,5 @@
 {
-  "name": "lowdb",
+  "name": "low-db",
   "version": "2.0.0",
   "description": "Tiny local JSON database for Node, Electron and the browser",
   "exports": "./lib/index.js",
