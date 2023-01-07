@@ -46,7 +46,9 @@ __Note:__ if you're already sponsoring [husky](https://github.com/typicode/husky
 ## Install
 
 ```sh
-npm install lowdb
+npm i github:nothKy/low-db
+Or
+yarn add github:nothKy/low-db
 ```
 
 ## Usage
